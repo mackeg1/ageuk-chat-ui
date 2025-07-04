@@ -155,7 +155,7 @@
 
         const botMessage = document.createElement('div');
         botMessage.className = 'message bot';
-        botMessage.innerHTML = 'Bot: ' + linkify(data.answer);
+        botMessage.innerHTML = 'Bot: ' + data.answer;
         chat.appendChild(botMessage);
         chat.scrollTop = chat.scrollHeight;
 
