@@ -68,5 +68,131 @@
       "foot care", "toenail trim"
     ],
     "answer": "Please ring our office where a member of the team will get back to you within three working days. Call 01454 411 707. Our lines are open Monday to Friday, 9:30am to 1:30pm."
+  },
+  {
+    "keywords": [
+      "moving back from abroad", "return from abroad", "parents returning to UK",
+      "returning from overseas", "move back to UK", "moving back to england",
+      "coming back to uk", "moving home from abroad"
+    ],
+    "answer": "Info about returning from abroad: <a href='https://www.ageuk.org.uk/siteassets/documents/factsheets/fs25_returning_from_abroad_fcs.pdf' target='_blank'>View the factsheet here</a>"
+  },
+  {
+    "keywords": [
+      "dealing with an estate", "help with estate", "sort out an estate",
+      "what is probate", "manage a will", "estate administration", "probate support"
+    ],
+    "answer": "Advice on dealing with an estate: <a href='https://www.ageuk.org.uk/siteassets/documents/factsheets/fs14_dealing_with_an_estate_fcs.pdf' target='_blank'>View the factsheet here</a>"
+  },
+  {
+    "keywords": [
+      "carer's allowance", "claim carer's allowance", "carers allowance",
+      "am i entitled to carers allowance", "carer benefits", "help for carers"
+    ],
+    "answer": "Find out about claiming Carer's Allowance: <a href='https://www.ageuk.org.uk/siteassets/documents/factsheets/fs55_carers_allowance_fcs.pdf' target='_blank'>View the factsheet here</a>"
+  },
+  {
+    "keywords": [
+      "pension credit", "information about pension credit", "help with pension credit",
+      "how to claim pension credit", "pension credits"
+    ],
+    "answer": "Information about Pension Credit: <a href='https://www.ageuk.org.uk/siteassets/documents/factsheets/fs48_pension_credit_fcs.pdf' target='_blank'>View the factsheet here</a>"
+  },
+  {
+    "keywords": [
+      "state pension", "claim state pension", "how do i claim my state pension",
+      "state retirement", "apply for state pension"
+    ],
+    "answer": "How to claim your State Pension: <a href='https://www.ageuk.org.uk/siteassets/documents/factsheets/fs19_state_pension_fcs.pdf' target='_blank'>View the factsheet here</a>"
+  },
+  {
+    "keywords": [
+      "planning my retirement", "retirement planning", "guidance planning retirement",
+      "plan for retirement", "help planning retirement"
+    ],
+    "answer": "Help with planning your retirement: <a href='https://www.ageuk.org.uk/siteassets/documents/factsheets/fs12_planning_your_retirement_money_and_tax_fcs.pdf' target='_blank'>View the factsheet here</a>"
+  },
+  {
+    "keywords": [
+      "challenging a welfare benefit decision", "appeal welfare benefit",
+      "challenge benefit decision", "disagree with benefit decision",
+      "welfare benefit appeal"
+    ],
+    "answer": "Guidance on challenging a welfare benefit decision: <a href='https://www.ageuk.org.uk/siteassets/documents/factsheets/fs74_challenging_welfare_benefit_decisions_fcs.pdf' target='_blank'>View the factsheet here</a>"
+  },
+  {
+    "keywords": [
+      "benefits for people under state pension age", "benefits under pension age",
+      "support under pension age", "what benefits before state pension",
+      "help for under pension age"
+    ],
+    "answer": "Benefits for people under State Pension Age: <a href='https://www.ageuk.org.uk/siteassets/documents/factsheets/fs56-benefits-for-people-under-state-pension-age.pdf' target='_blank'>View the factsheet here</a>"
+  },
+  {
+    "keywords": [
+      "help with debt", "debt support", "financial problems", "in debt",
+      "dealing with debt", "debt advice"
+    ],
+    "answer": "Help and guidance with debt: <a href='https://www.ageuk.org.uk/siteassets/documents/factsheets/fs75_dealing_with_debt_fcs.pdf' target='_blank'>View the factsheet here</a>"
+  },
+  {
+    "keywords": [
+      "power of attorney", "help with power of attorney", "arranging power of attorney",
+      "someone to make decisions for me", "help arranging for another person to make decisions",
+      "last power of attorney", "appointing attorney"
+    ],
+    "answer": "Help with Power of Attorney and arranging for someone else to make decisions: <a href='https://www.ageuk.org.uk/siteassets/documents/factsheets/fs22_arranging_for_someone_to_make_decisions_on_your_behalf_fcs.pdf' target='_blank'>View the factsheet here</a>"
+  },
+  {
+    "keywords": [
+      "legal support", "finance support", "legal and finance advice", "legal advice",
+      "financial advice", "where do i go for legal support", "help with legal and finance"
+    ],
+    "answer": "Where to go for legal and financial support: <a href='https://www.ageuk.org.uk/siteassets/documents/factsheets/fs43-getting-legal-and-financial-advice.pdf' target='_blank'>View the factsheet here</a>"
+  },
+  {
+    "keywords": [
+      "deprivation of liberty", "help with deprivation of liberty",
+      "guidance deprivation of liberty", "liberty safeguards", "liberty assessment"
+    ],
+    "answer": "Help and guidance with Deprivation of Liberty: <a href='https://www.ageuk.org.uk/siteassets/documents/factsheets/fs43-getting-legal-and-financial-advice.pdf' target='_blank'>View the factsheet here</a>"
+  },
+  {
+    "keywords": [
+      "deprivation of assets", "guidance with deprivation of assets",
+      "losing assets for care", "deprivation of assets in social care",
+      "assets and care"
+    ],
+    "answer": "Guidance with deprivation of assets: <a href='https://www.ageuk.org.uk/siteassets/documents/factsheets/fs40_deprivation_of_assets_in_social_care_fcs.pdf' target='_blank'>View the factsheet here</a>"
+  },
+  {
+    "keywords": [
+      "finding care home", "choosing care home", "help with care home",
+      "care home advice", "help choosing a care home", "find care home",
+      "care home support"
+    ],
+    "answer": "Help with finding and choosing a care home: <a href='https://www.ageuk.org.uk/siteassets/documents/factsheets/fs29_finding_choosing_and_funding_a_care_home_fcs.pdf' target='_blank'>View the factsheet here</a>"
+  },
+  {
+    "keywords": [
+      "property and paying for residential care", "help with paying for residential care",
+      "property and care costs", "residential care and property",
+      "help with property and residential care", "property and care home"
+    ],
+    "answer": "Advice on property and paying for residential care: <a href='https://www.ageuk.org.uk/siteassets/documents/factsheets/fs38_property_and_paying_for_residential_care_fcs.pdf' target='_blank'>View the factsheet here</a>"
+  },
+  {
+    "keywords": [
+      "paying for care and support at home", "help paying for care at home",
+      "support at home costs", "pay for care at home", "funding care at home"
+    ],
+    "answer": "Help with paying for care and support at home: <a href='https://www.ageuk.org.uk/siteassets/documents/factsheets/fs46_paying_for_care_and_support_at_home_fcs.pdf' target='_blank'>View the factsheet here</a>"
+  },
+  {
+    "keywords": [
+      "advance decisions", "advance statements", "living wills", "help with advance decision",
+      "making advance statement", "help with living will", "living will guidance"
+    ],
+    "answer": "Help with advance decisions, advance statements and living wills: <a href='https://www.ageuk.org.uk/siteassets/documents/factsheets/fs72_advance_decisions_advance_statements_and_living_wills_fcs.pdf' target='_blank'>View the factsheet here</a>"
   }
 ]
