@@ -1,42 +1,72 @@
 [
   {
-    "keywords": ["care", "support", "help at home", "home care", "extra help", "live independently", "support at home"],
-    "answer": "Request care and support: https://beta.southglos.gov.uk/request-care-and-support/"
+    "keywords": [
+      "care", "support", "help at home", "home care", "extra help",
+      "live independently", "support at home"
+    ],
+    "answer": "Request care and support: <a href='https://beta.southglos.gov.uk/request-care-and-support/' target='_blank'>Visit the South Glos Council website</a>"
   },
   {
-    "keywords": ["adaptations", "aids", "equipment", "grab rails", "stairlift", "bathroom changes", "house adjustments", "mobility", "accessible home"],
-    "answer": "Aids and adaptations information: https://life.southglos.gov.uk/kb5/southglos/directory/advice.page?id=utLIq1DF89Q"
+    "keywords": [
+      "adaptations", "aids", "equipment", "grab rails", "stairlift", "bathroom changes",
+      "house adjustments", "mobility", "accessible home"
+    ],
+    "answer": "Aids and adaptations information: <a href='https://life.southglos.gov.uk/kb5/southglos/directory/advice.page?id=utLIq1DF89Q' target='_blank'>Find out more here</a>"
   },
   {
-    "keywords": ["benefits", "entitled", "claim", "financial help", "money support", "income", "pension credit"],
-    "answer": "Check your benefit eligibility here: https://benefitscheck.ageuk.org.uk/Home/Start/"
+    "keywords": [
+      "benefits", "entitled", "claim", "financial help", "money support",
+      "income", "pension credit"
+    ],
+    "answer": "Check your benefit eligibility: <a href='https://benefitscheck.ageuk.org.uk/Home/Start/' target='_blank'>Use the Age UK benefits calculator</a>"
   },
   {
-    "keywords": ["forms", "attendance", "pension", "housing", "council tax", "application", "fill in form", "complete form", "benefit form", "claim form"],
+    "keywords": [
+      "forms", "attendance", "pension", "housing", "council tax", "application",
+      "fill in form", "complete form", "benefit form", "claim form"
+    ],
     "answer": "Please ring our office where a member of the team will get back to you within three working days. Call 01454 411 707. Our lines are open Monday to Friday, 9:30am to 1:30pm."
   },
   {
-    "keywords": ["vulnerable", "concern", "safeguarding", "abuse", "abused", "neglect", "neglected", "at risk", "welfare", "mistreatment", "mistreated"],
-    "answer": "Report a concern about a vulnerable person here: https://beta.southglos.gov.uk/adult-safeguarding/"
+    "keywords": [
+      "vulnerable", "concern", "safeguarding", "abuse", "abused", "neglect",
+      "neglected", "at risk", "welfare", "mistreatment", "mistreated"
+    ],
+    "answer": "Report a concern about a vulnerable person: <a href='https://beta.southglos.gov.uk/adult-safeguarding/' target='_blank'>Go to safeguarding information</a>"
   },
   {
-    "keywords": ["dementia", "memory", "alzheimer", "memory loss", "forgetful", "confused", "memory clinic", "cognitive"],
-    "answer": "Dementia support and memory services: https://remedy.bnssg.icb.nhs.uk/providers/sirona-south-glos/south-glos-memory-service-dementia-support/"
+    "keywords": [
+      "dementia", "memory", "alzheimer", "memory loss", "forgetful",
+      "confused", "memory clinic", "cognitive"
+    ],
+    "answer": "Dementia support and memory services: <a href='https://remedy.bnssg.icb.nhs.uk/providers/sirona-south-glos/south-glos-memory-service-dementia-support/' target='_blank'>Find support here</a>"
   },
   {
-    "keywords": ["transport", "bus", "taxi", "community transport", "getting to appointments", "travel", "mobility bus"],
-    "answer": "Transport help and local taxis: https://beta.southglos.gov.uk/taxis/"
+    "keywords": [
+      "transport", "bus", "buses", "car", "taxi", "community transport",
+      "getting to appointments", "travel", "mobility bus"
+    ],
+    "answer": "Transport help and local taxis: <a href='https://beta.southglos.gov.uk/taxis/' target='_blank'>View local options</a>"
   },
   {
-    "keywords": ["gardener", "garden", "grass", "hedges", "weeding", "garden help", "outside work", "lawn"],
-    "answer": "Find a local gardener through Checkatrade: https://www.checkatrade.com/post-a-job?utm_source=bing&utm_medium=cpc&utm_campaign=Google_Search_Consumer_Growth_Gardener&utm_content=1275435151042910&utm_term=garden%20maintenance%20near%20me&gclid=01900b0d409513cca495636fd95627ad&gclsrc=3p.ds&msclkid=01900b0d409513cca495636fd95627ad"
+    "keywords": [
+      "gardener", "garden", "grass", "hedges", "weeding", "garden help",
+      "outside work", "lawn"
+    ],
+    "answer": "Find a local gardener through Checkatrade: <a href='https://www.checkatrade.com/post-a-job?utm_source=bing&utm_medium=cpc&utm_campaign=Google_Search_Consumer_Growth_Gardener&utm_content=1275435151042910&utm_term=garden%20maintenance%20near%20me&gclid=01900b0d409513cca495636fd95627ad&gclsrc=3p.ds&msclkid=01900b0d409513cca495636fd95627ad' target='_blank'>Find a gardener here</a>"
   },
   {
-    "keywords": ["handy", "repairs", "odd jobs", "small jobs", "fix things", "handyman", "maintenance", "DIY help"],
-    "answer": "HandyVan repairs service: https://beta.southglos.gov.uk/handy-van-repairs-service/"
+    "keywords": [
+      "handy", "repairs", "odd jobs", "small jobs", "fix things",
+      "handyman", "maintenance", "DIY help"
+    ],
+    "answer": "HandyVan repairs service: <a href='https://beta.southglos.gov.uk/handy-van-repairs-service/' target='_blank'>Learn about the service</a>"
   },
   {
-    "keywords": ["toenails", "foot", "nails", "feet", "nail cutting", "foot care", "toenail trim"],
+    "keywords": [
+      "toenails", "foot", "nails", "feet", "nail cutting",
+      "foot care", "toenail trim"
+    ],
     "answer": "Please ring our office where a member of the team will get back to you within three working days. Call 01454 411 707. Our lines are open Monday to Friday, 9:30am to 1:30pm."
   }
 ]
