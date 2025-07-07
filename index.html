@@ -155,14 +155,14 @@
 
         const botMessage = document.createElement('div');
         botMessage.className = 'message bot';
-        botMessage.innerHTML = 'Bot: ' + data.answer;
+        botMessage.innerHTML = 'Age UK South Glos Bot: ' + data.answer;
         chat.appendChild(botMessage);
         chat.scrollTop = chat.scrollHeight;
 
       } catch (err) {
         const errorMessage = document.createElement('div');
         errorMessage.className = 'message bot';
-        errorMessage.textContent = 'Bot: Sorry, something went wrong.';
+        errorMessage.textContent = 'Age UK South Glos Bot: Sorry, something went wrong.';
         chat.appendChild(errorMessage);
         chat.scrollTop = chat.scrollHeight;
       }
