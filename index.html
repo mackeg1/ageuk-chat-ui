@@ -13,22 +13,41 @@
         font-size: 18px;
         line-height: 1.6;
       }
+      .page-container {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 0 24px;
+      }
       header {
         background: #ffffff;
-        color: #007DAD;
-        padding: 15px 20px;
         display: flex;
-        align-items: center;
-        gap: 15px;
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 24px 0 8px 0;
       }
       .logo-wrap {
         background: white;
         padding: 6px;
         border-radius: 4px;
+        margin-bottom: 8px;
       }
       .logo-wrap img {
         height: 99px;
         object-fit: contain;
+        display: block;
+      }
+      .welcome-bar {
+        background: #fff;
+        padding: 0;
+        margin: 0;
+        width: 100%;
+      }
+      .welcome-bar h1 {
+        color: #007DAD;
+        font-size: 36px;
+        font-weight: 700;
+        margin: 0;
+        text-align: left;
       }
       .intro {
         color: #007DAD;
@@ -62,18 +81,6 @@
       .bot {
         color: #007DAD;
       }
-      .welcome-bar {
-        background: #fff;
-        padding: 15px 20px 10px 20px;
-        text-align: centre;
-        border-bottom: 1px solid #f1f1f1;
-      }
-      .welcome-bar h1 {
-        color: #007DAD;
-        font-size: 36px;
-        font-weight: 700;
-        margin: 0;
-      }
       input[type="text"] {
         width: 80%;
         padding: 12px;
@@ -95,19 +102,30 @@
         color: #007DAD;
         text-decoration: underline;
       }
+      @media (max-width: 600px) {
+        .page-container {
+          padding: 0 10px;
+        }
+        .welcome-bar h1 {
+          font-size: 22px;
+        }
+        .logo-wrap img {
+          height: 60px;
+        }
+      }
     </style>
   </head>
   <body>
-    <header>
-      <div class="logo-wrap">
-        <img src="logo_age_uk.png" alt="Age UK South Gloucestershire Logo">
-      </div>
-    </header>
-
-    <div class="welcome-bar">
-      <h1>Welcome to the Age UK South Glos Help Bot</h1>
+    <div class="page-container">
+      <header>
+        <div class="logo-wrap">
+          <img src="logo_age_uk.png" alt="Age UK South Gloucestershire Logo">
+        </div>
+        <div class="welcome-bar">
+          <h1>Welcome to the Age UK South Glos Help Bot</h1>
+        </div>
+      </header>
     </div>
-
     <div class="container">
       <p class="intro">Ask a question about local services and support.</p>
       <div id="chat"></div>
@@ -116,7 +134,6 @@
         <button type="submit">Send</button>
       </form>
     </div>
-
     <script>
       const chat = document.getElementById('chat');
       const form = document.getElementById('chat-form');
