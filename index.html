@@ -57,9 +57,21 @@
         margin-top: -1px;
       }
       @media (max-width: 600px) {
-        .page-container {
-          padding: 0 10px;
-        }
+  #chat-form {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  #chat-form input[type="text"] {
+    width: 100%;
+    margin-bottom: 10px; /* Creates the gap */
+  }
+
+  #chat-form button {
+    width: auto; /* Keep button to its text size */
+  }
+}
       }
       .intro {
         color: #007DAD;
