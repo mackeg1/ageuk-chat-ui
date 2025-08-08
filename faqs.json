@@ -64,10 +64,32 @@
   },
   {
     "keywords": [
-      "toenails", "foot", "nails", "feet", "nail cutting",
-      "foot care", "toenail trim", "toenails", "foot", "nails", "feet", "chiropody"
+      "walking group", "book walking group", "join walking", "walking project", "walking", "group walk",
+      "walk", "walking booking", "walking session", "walking class", "walking appointment", "sign up for walk", "walk group"
     ],
-    "answer": "Please ring our office where a member of the team will get back to you within three working days. Call 01454 411 707. Our lines are open Monday to Friday, 9:30am to 1:30pm."
+    "answer": "Book a walking group with us online: <a href='https://ageuksg.org.uk/booking/' target='_blank'>Visit booking site here</a>"
+  },
+  {
+    "keywords": [
+      "digital support", "digital help", "tablet", "loan tablet", "internet access", "wifi", "connectivity", "digital class",
+      "learn computer", "digital group", "learn tablet", "learn online", "digital training", "digital skills", "computer help",
+      "help with computer", "learn smartphone", "digital inclusion", "digital session", "digital appointment", "help online",
+      "digital", "IT help", "tech help", "technology support", "online skills", "book digital", "digital champions"
+    ],
+    "answer": "Book digital support with us online: <a href='https://ageuksg.org.uk/booking/' target='_blank'>Visit booking site here</a>"
+  },
+  {
+    "keywords": [
+      "falls prevention", "prevent falls", "fall prevention", "balance class", "strong and steady", "stay steady", "get strong", "get steady", "falls class", "exercise class", "strength class", "mobility class", "keep steady", "improve balance", "prevent falling", "falls help", "book balance class", "falls group", "falls session", "falls programme", "falls", "balance", "steady", "strong", "strength", "class"
+    ],
+    "answer": "Book a falls prevention class with us online: <a href='https://ageuksg.org.uk/booking/' target='_blank'>Visit booking site here</a>"
+  },
+  {
+    "keywords": [
+      "toenails", "toenail", "foot", "nails", "feet", "nail cutting",
+      "foot care", "toenail cutting", "toenails", "foot", "nails", "feet", "chiropody"
+    ],
+    "answer": "Book a toenail cutting appointment with us online: <a href='https://ageuksg.org.uk/booking/' target='_blank'>Visit booking site here</a>"
   },
   {
     "keywords": [
